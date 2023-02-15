@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VeryVital/Morese-Hub/main/The%20code", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VeryVital/Morese-Hub/main/MoreseHubCode", true))()
 
 --[[
 ___  ___                           _   _       _     
